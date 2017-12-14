@@ -1,7 +1,7 @@
 # NextText
 A mobile application project developed for COMP3004 at Carleton University.
 
-This Android app sends personal SMS's and Emails for its clients released based on triggers such as a future time chosen, a future location targetted, or a expected weather condition reached. 
+This Android app sends personal SMS's and Emails for its clients released based on triggers such as a future time chosen. 
 
 Developers(From A to Z [Last name]): 
 
@@ -9,11 +9,6 @@ Developers(From A to Z [Last name]):
   - Task: Back end(Database, Models, Services, Backend Utilities, Yahoo Weather API)
   - Completion: Backend(Database, Models, Services, Backend Utilities, Backend portion of Weather interface (used Yahoo Weather API)), all documentation, scripts, promo video
   - Language: Java/Kotlin
-
-[Devon Plouffe](https://github.com/devon-mp)
- - Task: Back end(Google Maps API)
- - Completion: No implementation, unfinished component diagram for D3
- - Language: Java
 
 [Yue Zhang](https://github.com/mryuezhang)
   - Task: Entire front end
